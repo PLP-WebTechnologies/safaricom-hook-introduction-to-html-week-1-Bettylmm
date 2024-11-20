@@ -15,6 +15,43 @@ By completing this assignment, you will:
 ## Assignment Content
   1. HTML5 Basics
 Learn the structure of an HTML document (e.g., <!DOCTYPE html>, <html>, <head>, <body>).
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>web creation</title>
+    </head>
+    <body>
+        <header>
+            <h1>GLENO PHARMS</h1>
+            <nav>
+            <a href="#">services</a>
+            <a href="contact">contact</a>
+            </nav>
+            <section>
+                <h2>services offered</h2>
+               <ul>
+                <li>wholesale pharm products</li>
+                <li>retail dispensing of drugs</li>
+                <li>monitoring equipments</li>
+               </ul> 
+            </section>
+        </header>
+         
+              <table border="1">
+                <tr>
+                    <th>day</th>
+                    <th>opening hours</th>
+                    <th>closing hours</th>
+                </tr>
+                <tr>
+                    <td>monday</td>
+                    <td>8:30 am</td>
+                    <td>7:oo pm</td>
+                </tr>
+            </table>
+
+    </body>
+</html>
 Explore core elements such as headings, paragraphs, lists, links, and images.
   2. Semantic HTML
 Introduction to semantic tags like <header>, <footer>, <nav>, <section>, and <article>.
@@ -29,4 +66,5 @@ Creating a Simple Webpage: Design a basic webpage that includes text, images, an
 Use common HTML tags like h1, p, a, img, and ul or ol.
 Structure a webpage with semantic tags such as header, footer, nav, section, and article.
 Ensure the content is well-organized for readability and SEO.
+
 
